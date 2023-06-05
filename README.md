@@ -1,3 +1,101 @@
+## Inicializating - Bug Bounty
+
+### 🐛 **Bug Bounty Platforms**
+
+---
+
+- [**`Hackerone`**](https://www.hackerone.com/)
+- [**`Bugcrowd`**](https://www.bugcrowd.com/)
+- [**`YesWeHack`**](https://www.yeswehack.com/)
+- [**`Synack`**](https://www.synack.com/)
+
+---
+
+### ℹ️ Resources
+
+---
+
+### 😽 **Github**
+
+---
+
+### 🔽 **Own Repository - All Information**
+
+---
+
+### ⬇️ **This Github Repository Contains** 🪙
+
+[GitHub - DoS0x99/CyberSec-Books: Cyber Security Books](https://github.com/DoS0x99/CyberSec-Books)
+
+---
+
+### 🔽 **Others**
+
+[GitHub - nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters: A list of resources for those interested in getting started in bug bounties](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+
+[GitHub - jhaddix/tbhm: The Bug Hunters Methodology](https://github.com/jhaddix/tbhm)
+
+https://github.com/ravro-ir/awesome-hacking-resources
+
+---
+
+### 🌐 **Web**
+
+**[Zseanos Web](https://www.bugbountyhunter.com/zseano/)**
+
+**[Web Security Academy PortsWigger](https://portswigger.net/web-security)**
+
+**[BugCrowd University - Security, education, and training for the whitehat hacker community](https://www.bugcrowd.com/resources/levelup/)**
+
+**[WebS3c - Community For Web Application Security](https://webs3c.com/)**
+
+**[Top 20 Bug Bountys Creator Contents](https://blog.intigriti.com/2023/01/03/top-20-bug-bounty-youtube-channels-of-2022/?cn-reloaded=1)**
+
+**[Bug Bounty Twitter Accounts](https://twitter.com/i/lists/1253517962272743424)**
+
+---
+
+### 📽️ **Media**
+
+https://www.youtube.com/watch?v=Rp69edBmFFo
+
+---
+
+### 📔 **Books → All Books On GitHub Repository**
+
+- 🗝️ **Zseanos Methodology - Zseanos**
+    
+    [zseanos-methodology.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/171722a5-80cd-4f21-b750-3a93361f8bc9/zseanos-methodology.pdf)
+    
+- 📓 **Bug Bounty Bootcamp - Vickie Li**
+    
+    [Bug Bounty Bootcamp by Vickie Li - Part 1.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f0c4b19-455b-43aa-87e4-330fc95c0dc9/Bug_Bounty_Bootcamp_The_Guide_to_Finding_and_Reporting_Web_Vulnerabilities_by_Vickie_Li_-_PART1.pdf)
+    
+    [Bug Bounty Bootcamp by Vickie Li - Part 2.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a6fe7e8b-cdc0-454e-a5c3-fef636aa054f/Bug_Bounty_Bootcamp_The_Guide_to_Finding_and_Reporting_Web_Vulnerabilities_by_Vickie_Li_-_PART2.pdf)
+    
+    [Bug Bounty Bootcamp by Vickie Li - Part 3.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48bf3158-6cbf-44c3-a6e4-4ea4f57f97a1/Bug_Bounty_Bootcamp_-_Bug_Bounty_Bootcamp_The_Guide_to_Finding_and_Reporting_Web_Vulnerabilities_by_Vickie_Li_-_PART3.pdf)
+    
+- **Web Hacking** 1️⃣0️⃣1️⃣ **- Peter Yaworski**
+    
+    [Web Hacking 101.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/560fa5bf-57ca-460d-a3c6-8b63df5c08a2/Web_Hacking_101_compressed.pdf)
+    
+---
+
+### 🖊️ **CTF Platforms - Academys**
+
+- **[TryHackme](https://tryhackme.com/)**
+- **[HackTheBox](https://www.hackthebox.com/)**
+- **[HackTheBox Academy](https://academy.hackthebox.com/)**
+- **[PortsWigger](https://portswigger.net/web-security)**
+
+---
+
+### 📄 **Another Things**
+
+[HackerOne - Hacker Education Resources](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/850c38cc-7a36-4adc-901b-f63425ec942c/hacker-education-resources_compressed.pdf)
+
+---
+
 # CyberSec Books Collection
 
 - A collection of cyber security books
